@@ -16,19 +16,15 @@
 
 # Today - day w5d4
 
-- ChartJS - micro learning
+- Module 2 - review
 - Continue thinking with your partner the app you will implement in project 2
 - Design and / or find the API you want to use
 - Study file upload with and without a CDN
+- ChartJS - micro learning
 
 ## Activities
 
 - File upload activity
-
-# Next - day w5d5
-
-- MVP validation
-- Continue coding your project 2 with your partner
 
 # Goals
 
