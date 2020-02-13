@@ -10,12 +10,11 @@
 
 - Axios CRUD exercise with JSON server
 - Implement confirmation emails
-- Get to know and sit down with your project 2 partner
-- TA's will do project and API's showcase
-- Start thinking with your partner the app you will implement in project 2
+- Know your project 2 partner
 
 # Today - day w5d4
 
+- Project 2 showcase
 - Module 2 - review
 - Continue thinking with your partner the app you will implement in project 2
 - Design and / or find the API you want to use
